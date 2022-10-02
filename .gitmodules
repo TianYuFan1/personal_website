@@ -5,3 +5,7 @@
 	path = public
 	url = git@github.com:TianYuFan1/tianyufan.github.io.git
 	branch = main
+[submodule "tianyufan.github.io"]
+	path = tianyufan.github.io
+	url = git@github.com:TianYuFan1/tianyufan.github.io.git
+	branch = main
